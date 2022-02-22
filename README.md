@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... Vue JS
 
 ### 📫 Connect with me:
-juliolozm20@gmail.com
+Portfolio: https://juliozm20.github.io/Portfolio/
+Email: juliolozm20@gmail.com
 <br />
 <br />
 
